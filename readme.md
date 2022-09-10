@@ -1,2 +1,2 @@
 Hi,we are learning Git together.
-Have a good day!
+we are going to record some git commands here.eg and so on!
